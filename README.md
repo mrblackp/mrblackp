@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Marcos Vitor intern data engineer from Brazil<br><br>🔭 I’m currently working on Bradesco S/A<br>🌱 I’m currently learning cybersecurity and big data technologies<br>💬 Ask me about Python, PySpark, SQL, Hadoop, Cybersecurity, Cloud, Data Visualization and teach me too<br><br>⚡ I love technology, football and boxing 💻⚽🥊
+<br>I'm Marcos Vitor intern Data Science from Brazil<br><br>🔭 I’m currently working on Bradesco S/A<br>🌱 I’m currently learning cybersecurity and big data technologies<br>💬 Ask me about Python, PySpark, SQL, Hadoop, Cybersecurity, Cloud, Data Visualization and teach me too<br><br>⚡ I love technology, football and boxing 💻⚽🥊
 
 
 ## 🌐 Socials:
